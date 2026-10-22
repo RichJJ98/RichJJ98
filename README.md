@@ -17,11 +17,11 @@
 
 ## `> whoami`
 
-Olá, eu sou o **Joel de Lemos** (Richjj98), pesquisador de segurança e pentester no Brasil. Meu foco é **pesquisa de vulnerabilidades e segurança de aplicações (AppSec)**: entender como as falhas surgem, reproduzi-las em laboratório e documentá-las de forma clara e verificável.
+Olá, eu sou o **Joel de Lemos Peck'er** (Richjj98), pesquisador de segurança e pentester no Brasil. Meu foco é **pesquisa de vulnerabilidades e segurança de aplicações (AppSec)**: entender como as falhas surgem, reproduzi-las em laboratório e documentá-las de forma clara e verificável.
 
 ```text
 ┌──[richjj98@kali]─[~/whoami]
-├── Nome ............ Joel de Lemos (Richjj98)
+├── Nome ............ Joel de Lemos Peck'er (Richjj98)
 ├── Função .......... Security Researcher & Pentester
 ├── Foco ............ Pesquisa de Vulnerabilidades & AppSec
 ├── Origem .......... Brasil
@@ -56,7 +56,7 @@ Estudos técnicos sobre CVEs conhecidas, com foco em entender a cadeia de explor
 | [**CVE-2026-27880**](https://nvd.nist.gov/vuln/detail/CVE-2026-27880) | Falha na avaliação de feature toggles (OpenFeature) | [security-research](https://github.com/RichJJ98/security-research) | Análise |
 
 > [!NOTE]
-> Estudos de curadoria e análise técnica sobre vulnerabilidades já catalogadas publicamente (Zabbix Security Advisories, NVD, CISA KEV), não descobertas originais. O repositório `analise-vulnerabilidades-zabbix` nasceu como entrega de um desafio de projeto da DIO, usando o NotebookLM para curadoria e síntese. Ele é indexado por plataformas como Tenable e Vulmon por citar essas CVEs no texto — a indexação não é um endosso da pesquisa como original. Testes práticos só em ambientes com autorização.
+> Estudos de curadoria e análise técnica sobre vulnerabilidades já catalogadas publicamente (Zabbix Security Advisories, NVD, CISA KEV), não descobertas originais. O repositório `analise-vulnerabilidades-zabbix` nasceu como entrega de um desafio de projeto da DIO, usando o NotebookLM para curadoria e síntese. Ele é indexado por plataformas como Tenable, Vulmon, KitPloit e Sploitus por citar essas CVEs no texto — a indexação não é um endosso da pesquisa como original. Testes práticos só em ambientes com autorização.
 
 <br>
 
