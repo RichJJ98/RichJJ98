@@ -45,18 +45,18 @@ Olá, eu sou o **Joel de Lemos** (Richjj98), pesquisador de segurança e pentest
 
 <br>
 
-## `> public.advisories`
+## `> cve.studies`
 
-Pesquisas e relatórios técnicos citados como referência em agregadores de Threat Intelligence.
+Estudos técnicos sobre CVEs conhecidas, com foco em entender a cadeia de exploração e documentar a remediação.
 
-| CVE | Resumo | Repositório | Referenciado por |
+| CVE | Resumo | Material | Tipo |
 | :-- | :-- | :-- | :-- |
-| [**CVE-2026-23921**](https://nvd.nist.gov/vuln/detail/CVE-2026-23921) | Blind SQL Injection na API do Zabbix | [analise-vulnerabilidades-zabbix](https://github.com/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm) | Tenable, Vulmon |
-| [**CVE-2026-27880**](https://nvd.nist.gov/vuln/detail/CVE-2026-27880) | Falha na avaliação de feature toggles (OpenFeature) | [security-research](https://github.com/RichJJ98/security-research) | Vulmon |
-| [**CVE-2024-42327**](https://nvd.nist.gov/vuln/detail/CVE-2024-42327) | Análise técnica e PoC de SQL Injection no Zabbix | [analise-vulnerabilidades-zabbix](https://github.com/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm) | csurface (PoCs), KitPloit |
+| [**CVE-2026-23921**](https://nvd.nist.gov/vuln/detail/CVE-2026-23921) | Blind SQL Injection na API do Zabbix (parâmetro `sortfield`) | [analise-vulnerabilidades-zabbix](https://github.com/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm) | Caderno de estudo |
+| [**CVE-2024-42327**](https://nvd.nist.gov/vuln/detail/CVE-2024-42327) | SQL Injection na camada de abstração da API Web do Zabbix | [analise-vulnerabilidades-zabbix](https://github.com/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm) | Caderno de estudo |
+| [**CVE-2026-27880**](https://nvd.nist.gov/vuln/detail/CVE-2026-27880) | Falha na avaliação de feature toggles (OpenFeature) | [security-research](https://github.com/RichJJ98/security-research) | Análise |
 
 > [!NOTE]
-> Os repositórios contêm análises e provas de conceito para fins educacionais e de pesquisa. Use apenas em ambientes que você tem autorização para testar.
+> Estudos de curadoria e análise técnica sobre vulnerabilidades já catalogadas publicamente (Zabbix Security Advisories, NVD, CISA KEV), não descobertas originais. O repositório `analise-vulnerabilidades-zabbix` nasceu como entrega de um desafio de projeto da DIO, usando o NotebookLM para curadoria e síntese. Ele é indexado por plataformas como Tenable e Vulmon por citar essas CVEs no texto — a indexação não é um endosso da pesquisa como original. Testes práticos só em ambientes com autorização.
 
 <br>
 
@@ -64,7 +64,7 @@ Pesquisas e relatórios técnicos citados como referência em agregadores de Thr
 
 | Projeto | Descrição | Stack | Status |
 | :-- | :-- | :-- | :--: |
-| [**analise-vulnerabilidades-zabbix**](https://github.com/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm) | Análise aprofundada de SQLi e PoC referenciada em agregadores de CVEs | `Research` `SQLi` | ![Published](https://img.shields.io/badge/status-Published-00FF41?style=flat-square&labelColor=000000) |
+| [**analise-vulnerabilidades-zabbix**](https://github.com/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm) | Caderno de estudo (desafio DIO + NotebookLM) sobre a cadeia de exploração SQLi → RCE no Zabbix | `Study` `SQLi` | ![Published](https://img.shields.io/badge/status-Published-00FF41?style=flat-square&labelColor=000000) |
 | [**security-research**](https://github.com/RichJJ98/security-research) | Laboratório e artigos práticos sobre falhas de segurança e de lógica em software | `AppSec` `Auditing` | ![Active](https://img.shields.io/badge/status-Active-00FF41?style=flat-square&labelColor=000000) |
 | **web-vuln-labs** | Laboratório e relatórios práticos de testes em OWASP Top 10 | `Burp Suite` | ![Research](https://img.shields.io/badge/status-Research-yellow?style=flat-square&labelColor=000000) |
 
