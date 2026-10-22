@@ -64,18 +64,9 @@ Pesquisas e relatórios técnicos citados como referência em agregadores de Thr
 
 | Projeto | Descrição | Stack | Status |
 | :-- | :-- | :-- | :--: |
-| [**analise-vulnerabilidades-zabbix**](https://github.com/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm) | Análise aprofundada de SQLi e PoC referenciada em agregadores de CVEs | `Research` `SQLi` | ![Published](https://img.shields.io/badge/-Published-00FF41?style=flat-square&labelColor=000000) |
-| [**security-research**](https://github.com/RichJJ98/security-research) | Laboratório e artigos práticos sobre falhas de segurança e de lógica em software | `AppSec` `Auditing` | ![Active](https://img.shields.io/badge/-Active-00FF41?style=flat-square&labelColor=000000) |
-| **web-vuln-labs** | Laboratório e relatórios práticos de testes em OWASP Top 10 | `Burp Suite` | ![Research](https://img.shields.io/badge/-Research-yellow?style=flat-square&labelColor=000000) |
-
-<br>
-
-## `> github.stats`
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Richjj98&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&border_color=30363d" width="48%" alt="GitHub stats"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Richjj98&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&border_color=30363d" width="48%" alt="Linguagens mais usadas"/>
-</p>
+| [**analise-vulnerabilidades-zabbix**](https://github.com/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm) | Análise aprofundada de SQLi e PoC referenciada em agregadores de CVEs | `Research` `SQLi` | ![Published](https://img.shields.io/badge/status-Published-00FF41?style=flat-square&labelColor=000000) |
+| [**security-research**](https://github.com/RichJJ98/security-research) | Laboratório e artigos práticos sobre falhas de segurança e de lógica em software | `AppSec` `Auditing` | ![Active](https://img.shields.io/badge/status-Active-00FF41?style=flat-square&labelColor=000000) |
+| **web-vuln-labs** | Laboratório e relatórios práticos de testes em OWASP Top 10 | `Burp Suite` | ![Research](https://img.shields.io/badge/status-Research-yellow?style=flat-square&labelColor=000000) |
 
 <br>
 
